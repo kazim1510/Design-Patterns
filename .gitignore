@@ -1,0 +1,6 @@
+*.iml
+*.xml
+*.class
+out/production/Design_Patterns/META-INF/Design_Patterns.kotlin_module
+src/com/challange/design/patterns/Main.java
+.idea/description.html
